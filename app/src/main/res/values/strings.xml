@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Resepi Admin</string>
+
+    <string name="waktu_memasak">Waktu memasak</string>
+    <string name="bahan_masakan">Bahan masakan</string>
+    <string name="alat_masak">Alat masak</string>
+    <string name="cara_memasak">Cara memasak</string>
+    <string name="nama_resep">Nama resep</string>
+    <string name="tambah_resep">Tambah resep</string>
+    <string name="waktu_pembuatan_resep">Waktu pembuatan resep</string>
+    <string name="masukkan_alat_memasak">Masukkan alat memasak</string>
+    <string name="masukkan_cara_memasak">Masukkan cara memasak</string>
+    <string name="masukkan_gambar_resep">Masukkan gambar resep</string>
+    <string name="tambahkan_file">Tambahkan file</string>
+    <string name="kirim">Kirim</string>
+    <string name="tambah_menu">Tambah Menu</string>
+    <string name="cari_resep">cari resep</string>
+    <string name="nasi_goreng">Nasi goreng</string>
+    <string name="kembali">Kembali</string>
+    <string name="masukkan_isian">Masukkan isian</string>
+    <string name="cari_resep_kamu">cari resep kamu</string>
+    <string name="gambar_makanan">Gambar makanan</string>
+
+</resources>
